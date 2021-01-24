@@ -1,0 +1,6 @@
+(Made using create-react-app)
+yarn to install the packages listed in package.json and then do yarn start.
+Search is done on basis of bookID.
+Sorting can be done by pressing the header of each row in ascending and descending order.
+To add books in cart, select the rows you want to add then press "add to cart" button number of books will be shown on cart on navbar.
+To view the cart, press cart button on navbar after adding items, a list will appear.
